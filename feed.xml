@@ -3,11 +3,11 @@
     <channel>
         <title></title>
         <description></description>
-        <link>http://localhost:4000/athi/</link>
-        <atom:link href="http://localhost:4000/athi/feed.xml" rel="self"
+        <link>http://localhost:4000/blog/</link>
+        <atom:link href="http://localhost:4000/blog/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jul 2019 09:36:06 +0900</pubDate>
-        <lastBuildDate>Wed, 03 Jul 2019 09:36:06 +0900</lastBuildDate>
+        <pubDate>Wed, 03 Jul 2019 09:52:00 +0900</pubDate>
+        <lastBuildDate>Wed, 03 Jul 2019 09:52:00 +0900</lastBuildDate>
         <generator>Jekyll v3.8.6</generator>
         
         <item>
@@ -33,8 +33,8 @@
 &lt;/blockquote&gt;
 </description>
             <pubDate>Sun, 30 Jun 2019 21:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/30/test-posting.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/30/test-posting.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/30/test-posting.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/30/test-posting.html</guid>
             
             <category>test1</category>
             
@@ -67,8 +67,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/MUaX5AP.png&quot; alt=&quot;도커설정&quot; /&gt;&lt;/p&gt;
 </description>
             <pubDate>Sun, 30 Jun 2019 12:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/30/docker-environment.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/30/docker-environment.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/30/docker-environment.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/30/docker-environment.html</guid>
             
             <category>docker</category>
             
@@ -518,8 +518,8 @@
 &lt;p&gt;이것으로 React Native의 기본적인 사용법에 대해서 마치겠습니다&lt;/p&gt;
 </description>
             <pubDate>Wed, 05 Jun 2019 01:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/05/animated.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/05/animated.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/05/animated.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/05/animated.html</guid>
             
             <category>react-native</category>
             
@@ -533,8 +533,8 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
             <pubDate>Tue, 04 Jun 2019 23:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/04/console-log.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/04/console-log.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/04/console-log.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/04/console-log.html</guid>
             
             <category>react-native</category>
             
@@ -699,8 +699,8 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
             <pubDate>Tue, 04 Jun 2019 23:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/04/circletransition.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/04/circletransition.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/04/circletransition.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/04/circletransition.html</guid>
             
             <category>react-native</category>
             
@@ -712,8 +712,8 @@
             <description>&lt;p&gt;&lt;a href=&quot;https://codeburst.io/custom-bubble-transition-with-react-navigation-d8efca9ba83f&quot;&gt;Custom Bubble Transitions with React Navigation&lt;/a&gt;&lt;/p&gt;
 </description>
             <pubDate>Tue, 04 Jun 2019 23:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/04/bubble-transition.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/04/bubble-transition.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/04/bubble-transition.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/04/bubble-transition.html</guid>
             
             <category>react-native</category>
             
@@ -1172,8 +1172,8 @@ mongodb://shiftcard:1234@ds121665.mlab.com:21665/graphql-auth-demo-1
 &lt;p&gt;And there you have it! Runnable source code is available below&lt;/p&gt;
 </description>
             <pubDate>Tue, 04 Jun 2019 23:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/04/auth-server.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/04/auth-server.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/04/auth-server.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/04/auth-server.html</guid>
             
             <category>react-native</category>
             
@@ -1614,8 +1614,8 @@ export default graphql(
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
             <pubDate>Tue, 04 Jun 2019 23:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/04/auth-client.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/04/auth-client.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/04/auth-client.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/04/auth-client.html</guid>
             
             <category>react-native</category>
             
@@ -1653,8 +1653,8 @@ justifyContent는 세로로 가운데 정렬
 &lt;img src=&quot;https://i.imgur.com/n4DVf3q.png&quot; alt=&quot;가운데 정렬&quot; /&gt;&lt;/p&gt;
 </description>
             <pubDate>Tue, 04 Jun 2019 23:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/06/04/react-native-align-center.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/06/04/react-native-align-center.html</guid>
+            <link>http://localhost:4000/blog#/2019/06/04/react-native-align-center.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/06/04/react-native-align-center.html</guid>
             
             <category>react-native</category>
             
@@ -2024,8 +2024,8 @@ git push origin master
 &lt;p&gt;이로서 자동화도구를 얻으셨습니다.&lt;/p&gt;
 </description>
             <pubDate>Sun, 06 Jan 2019 21:12:12 +0900</pubDate>
-            <link>http://localhost:4000/athi#/2019/01/06/get-started-quickly.html</link>
-            <guid isPermaLink="true">http://localhost:4000/athi#/2019/01/06/get-started-quickly.html</guid>
+            <link>http://localhost:4000/blog#/2019/01/06/get-started-quickly.html</link>
+            <guid isPermaLink="true">http://localhost:4000/blog#/2019/01/06/get-started-quickly.html</guid>
             
             <category>goodwriting-series</category>
             
